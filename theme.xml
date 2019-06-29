@@ -41,7 +41,7 @@ credit:         controller artwork originally from Carbon theme
       <text name="systemInfo">
          <backgroundColor>00000000</backgroundColor>
          <pos>0 0.84</pos>
-         <color>555555</color>
+         <color>777777</color>
          <fontPath>./_inc/fonts/Cabin-Bold-TTF.ttf</fontPath>
          <fontSize>0.05</fontSize>
          <zIndex>5</zIndex>
@@ -56,8 +56,7 @@ credit:         controller artwork originally from Carbon theme
       <textlist name="gamelist">
          <pos>0.05 0.225</pos>
          <size>0.9 0.725</size>
-         <selectorColor>000000ff</selectorColor>
-         <selectedColor>bba358</selectedColor>
+         <selectedColor>b34222</selectedColor>
          <primaryColor>eaeaea</primaryColor>
          <secondaryColor>eaeaea</secondaryColor>
          <fontPath>./_inc/fonts/Cabin-Bold-TTF.ttf</fontPath>
